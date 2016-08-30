@@ -1,0 +1,8 @@
+# Jigasi settings
+JIGASI_SIPUSER=sunchen
+JIGASI_SIPPWD=MTExMTEx
+JIGASI_SECRET=P16ua1aR
+JIGASI_OPTS=""
+
+# adds java system props that are passed to jigasi (default are for logging config file)
+JAVA_SYS_PROPS="-Djava.util.logging.config.file=/etc/jitsi/jigasi/logging.properties"
